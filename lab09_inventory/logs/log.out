@@ -1,0 +1,15 @@
+2026-10-16 20:44:22,688 INFO [edu.psu.se411.lab09_inventory.App.main()] edu.psu.se411.lab09_inventory.App - Application is starting...
+2026-10-16 20:44:22,689 INFO [edu.psu.se411.lab09_inventory.App.main()] edu.psu.se411.lab09_inventory.App - Displaying Entire Inventory
+2026-10-16 20:44:22,690 INFO [edu.psu.se411.lab09_inventory.App.main()] edu.psu.se411.lab09_inventory.App - Book [ID=B001, Name=Concurrency in Java, Author=Brian Goetz]
+2026-10-16 20:44:22,690 INFO [edu.psu.se411.lab09_inventory.App.main()] edu.psu.se411.lab09_inventory.App - Book [ID=B002, Name=Clean Code, Author=Robert C. Martin]
+2026-10-16 20:44:22,690 INFO [edu.psu.se411.lab09_inventory.App.main()] edu.psu.se411.lab09_inventory.App - ElectronicDevice [ID=E001, Name=Galaxy S24, Category=Smartphones]
+2026-10-16 20:44:22,690 INFO [edu.psu.se411.lab09_inventory.App.main()] edu.psu.se411.lab09_inventory.App - ElectronicDevice [ID=E002, Name=ThinkPad T14, Category=Laptops]
+2026-10-16 20:44:22,690 INFO [edu.psu.se411.lab09_inventory.App.main()] edu.psu.se411.lab09_inventory.App - Searching for 'Concurrency in Java'
+2026-10-16 20:44:22,691 INFO [edu.psu.se411.lab09_inventory.App.main()] edu.psu.se411.lab09_inventory.App - Found: Book [ID=B001, Name=Concurrency in Java, Author=Brian Goetz]
+2026-10-16 20:44:22,691 INFO [edu.psu.se411.lab09_inventory.App.main()] edu.psu.se411.lab09_inventory.App - Searching by Author 'Robert C. Martin'
+2026-10-16 20:44:22,691 INFO [edu.psu.se411.lab09_inventory.App.main()] edu.psu.se411.lab09_inventory.App - Found: Book [ID=B002, Name=Clean Code, Author=Robert C. Martin]
+2026-10-16 20:44:22,691 INFO [edu.psu.se411.lab09_inventory.App.main()] edu.psu.se411.lab09_inventory.App - Searching by Category 'Smartphones'
+2026-10-16 20:44:22,691 INFO [edu.psu.se411.lab09_inventory.App.main()] edu.psu.se411.lab09_inventory.App - Found: ElectronicDevice [ID=E001, Name=Galaxy S24, Category=Smartphones]
+2026-10-16 20:44:22,691 INFO [edu.psu.se411.lab09_inventory.App.main()] edu.psu.se411.lab09_inventory.App - Searching using Lambda expression (Id == 'E002')
+2026-10-16 20:44:22,691 INFO [edu.psu.se411.lab09_inventory.App.main()] edu.psu.se411.lab09_inventory.App - Found: ElectronicDevice [ID=E002, Name=ThinkPad T14, Category=Laptops]
+2026-10-16 20:44:22,691 INFO [edu.psu.se411.lab09_inventory.App.main()] edu.psu.se411.lab09_inventory.App - Application is closing...
