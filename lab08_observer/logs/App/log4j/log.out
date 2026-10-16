@@ -1,0 +1,23 @@
+2026-10-16 20:28:39,980 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.App - Application is starting...
+2026-10-16 20:28:39,982 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Temperature reading updated to: 25.138593887499106
+2026-10-16 20:28:39,982 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Humidity reading updated to: 40.39596803660569
+2026-10-16 20:28:40,983 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Temperature reading updated to: 25.060859768048914
+2026-10-16 20:28:40,983 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Humidity reading updated to: 59.99431234112687
+2026-10-16 20:28:41,999 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Temperature reading updated to: 27.303147862984652
+2026-10-16 20:28:41,999 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Humidity reading updated to: 45.86076256130582
+2026-10-16 20:28:43,011 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Temperature reading updated to: 22.628383912235357
+2026-10-16 20:28:43,011 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Humidity reading updated to: 56.76245075744821
+2026-10-16 20:28:44,022 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Temperature reading updated to: 20.16334799312221
+2026-10-16 20:28:44,022 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Humidity reading updated to: 54.835812131713524
+2026-10-16 20:28:45,025 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Temperature reading updated to: 27.479524190116095
+2026-10-16 20:28:45,025 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Humidity reading updated to: 51.95356512685235
+2026-10-16 20:28:46,031 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Temperature reading updated to: 28.798681996191373
+2026-10-16 20:28:46,031 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Humidity reading updated to: 54.50170598981558
+2026-10-16 20:28:47,041 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Temperature reading updated to: 22.858697836781097
+2026-10-16 20:28:47,041 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Humidity reading updated to: 52.7616948139532
+2026-10-16 20:28:48,050 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Temperature reading updated to: 30.570773487055504
+2026-10-16 20:28:48,050 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Humidity reading updated to: 50.927698638786545
+2026-10-16 20:28:49,065 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Temperature reading updated to: 34.647907202844046
+2026-10-16 20:28:49,065 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.observers.LoggerObserver - [LoggerObserver] Humidity reading updated to: 40.1773716421709
+2026-10-16 20:28:50,080 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.App - --- Testing Cloneable Sensor ---
+2026-10-16 20:28:50,080 INFO [edu.psu.se411.lab08.App.main()] edu.psu.se411.lab08.App - Application is stopping...
