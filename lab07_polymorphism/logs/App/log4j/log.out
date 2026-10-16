@@ -1,0 +1,25 @@
+2026-10-16 15:49:33,956 INFO [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Application is starting...
+2026-10-16 15:49:33,958 INFO [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Total price for booking FL-101 is $687.5
+2026-10-16 15:49:33,958 ERROR [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Exception raised for booking TR-202: Distance is missing for train booking TR-202
+edu.psu.se411.lab07_polymorphism.exceptions.MissingInformationException: Distance is missing for train booking TR-202
+	at edu.psu.se411.lab07_polymorphism.model.TrainBooking.computeTotalPrice(TrainBooking.java:23)
+	at edu.psu.se411.lab07_polymorphism.App.main(App.java:27)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.executeMainMethod(AbstractExecJavaBase.java:402)
+	at org.codehaus.mojo.exec.ExecJavaMojo.executeMainMethod(ExecJavaMojo.java:142)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.doExecClassLoader(AbstractExecJavaBase.java:377)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.lambda$execute$0(AbstractExecJavaBase.java:287)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-10-16 15:49:33,961 ERROR [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Exception raised for booking CR-303: Rental days must be between 1 and 30.
+edu.psu.se411.lab07_polymorphism.exceptions.InvalidArgumentException: Rental days must be between 1 and 30.
+	at edu.psu.se411.lab07_polymorphism.model.CarRentalBooking.computeTotalPrice(CarRentalBooking.java:26)
+	at edu.psu.se411.lab07_polymorphism.App.main(App.java:27)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.executeMainMethod(AbstractExecJavaBase.java:402)
+	at org.codehaus.mojo.exec.ExecJavaMojo.executeMainMethod(ExecJavaMojo.java:142)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.doExecClassLoader(AbstractExecJavaBase.java:377)
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.lambda$execute$0(AbstractExecJavaBase.java:287)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-10-16 15:49:33,961 INFO [edu.psu.se411.lab07_polymorphism.App.main()] edu.psu.se411.lab07_polymorphism.App - Application is stopping...
